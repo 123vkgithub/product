@@ -5,3 +5,8 @@
     margin: 20px;
     border-radius: 10px;
 }
+.mobile:hover{
+    border-radius: 10px;
+    border: 5px solid black;
+    box-shadow: 0px 0px 20px black;
+}
