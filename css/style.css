@@ -7,3 +7,8 @@
     border-radius: 10px;
     border: 3px solid black;
 }
+.menu:hover{
+    background-color: brown;
+    border-radius: 15px;
+    transition: 0.5s;
+}
