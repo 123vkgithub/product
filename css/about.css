@@ -1,0 +1,21 @@
+
+.a{
+    height: 800px;
+}
+.b{
+    height: 800px;
+}
+.c{
+    height: 800px;
+}
+.d{
+    height: 800px;
+}
+.card{
+    width: 250px;
+    margin: 40px;
+    padding : 20px;
+    border-radius: 15px;
+    display: inline-block;
+    box-shadow: 10px 10px 25px 5px black;
+}
