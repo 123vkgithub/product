@@ -9,5 +9,8 @@
     height: 200px;
     margin: 10px;
     text-decoration: none;
-
+    border-radius: 5px;
+}
+.contact:hover{
+    box-shadow: 0 0 10px grey;
 }
